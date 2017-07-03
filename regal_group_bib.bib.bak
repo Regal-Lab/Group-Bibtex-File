@@ -1,4 +1,10 @@
-% Encoding: UTF-8
+
+@misc{center_for_history_and_new_media_zotero_nodate,
+	title = {Zotero {Quick} {Start} {Guide}},
+	url = {http://zotero.org/support/quick_start_guide},
+	author = {{Center for History and New Media}},
+	annote = {Welcome to Zotero!View the Quick Start Guide to learn how to begin collecting, managing, citing, and sharing your research sources.Thanks for installing Zotero.}
+}
 
 @article{groblacker_demonstration_2009,
 	title = {Demonstration of an ultracold micro-optomechanical oscillator in a cryogenic cavity},
@@ -9965,10 +9971,3 @@
 	year = {2017},
 	pages = {023007}
 }
-@Article{git_test_2017,
-  author = {testing git},
-  title  = {testing git},
-  year   = {2017},
-}
-
-@Comment{jabref-meta: databaseType:bibtex;}
